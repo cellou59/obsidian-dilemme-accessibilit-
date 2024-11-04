@@ -1,5 +1,5 @@
 ---
-title: test
+title: Le dilemme de l'accessibilité moderne - IA, inclusion et écologie
 draft: false
 tags: 
 MOC: "[[IA]] [[ÉCOLOGIE]] [[DEVELOPPEMENT WEB]]"
