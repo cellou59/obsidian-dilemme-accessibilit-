@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
+    - Le dilemme de l'accessibilité moderne - IA, inclusion et écologie
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
