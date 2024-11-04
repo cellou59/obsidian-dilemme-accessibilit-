@@ -1,8 +1,7 @@
 ---
-title: Le dilemme de l'accessibilité moderne - IA, inclusion et écologie
-draft: false
-tags: 
-MOC: "[[IA]] [[ÉCOLOGIE]] [[DEVELOPPEMENT WEB]]"
+longform:
+  format: single
+  title: Le dilemme de l'accessibilité moderne - IA, inclusion et écologie
 ---
  L'accessibilité numérique est devenue un enjeu central dans la conception et le développement des technologies modernes. Pourtant, elle reste souvent reléguée au second plan, perçue comme une contrainte ou une obligation légale plutôt que comme un impératif fondamental d'inclusion. Avec l'essor de l'intelligence artificielle (IA), de nouvelles opportunités s'offrent pour combler les lacunes existantes et améliorer l'expérience des utilisateurs en situation de handicap. Cependant, cette révolution technologique soulève des questions complexes. L'IA est-elle réellement la solution miracle à tous les défis de l'accessibilité ? Ou risque-t-elle de devenir un simple pansement, masquant des défauts de conception plus profonds ? De plus, les avancées de l'IA ne sont pas sans coût : l'impact environnemental de cette technologie est un défi de taille qui vient compliquer le tableau. Cette dissertation se penche sur ce trilemme de l'accessibilité, où innovation, inclusion et durabilité s'affrontent pour définir l'avenir du web.
 # Accessibilité
@@ -279,6 +278,9 @@ Pour relever ce défi, il est crucial de favoriser une collaboration entre déve
 
 En ouvrant la réflexion, il est pertinent de se demander comment les avancées futures de l'IA, telles que le développement de modèles plus économes en énergie ou l'intégration de pratiques éthiques dans leur formation, pourront contribuer à une accessibilité numérique plus complète et durable. Pourrait-on imaginer un monde où l'IA ne servirait pas seulement à compenser des manques, mais à redéfinir complètement la manière dont nous concevons et interagissons avec le web, la réalité augmentée, objets connectés, robotique, implant neuronal ect, le rendant accessible à tous sans compromis environnemental ?
 
+---
+
+Links : [[IA]] [[ÉCOLOGIE]] [[DEVELOPPEMENT WEB]]
 
 ---
 

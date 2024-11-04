@@ -5,8 +5,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Introduction
-    - Le dilemme de l'accessibilité moderne - IA, inclusion et écologie
     - Carte de l'accessibilité par secteur
     - Collaboration et implication des personnes concernées
     - Défis éthiques et risques associés à l'IA
