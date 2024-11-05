@@ -140,6 +140,9 @@ longform:
     - Schéma pluriannuel de mise en accessibilité
     - Champ d'application et obligations du RGAA
     - Accessibilité web
-  sceneTemplate: templates/
+    - IA
+    - DEVELOPPEMENT WEB
+    - ÉCOLOGIE
+  sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
