@@ -3,8 +3,11 @@ longform:
   format: single
   title: Le dilemme de l'accessibilité moderne - IA, inclusion et écologie
 ---
- L'accessibilité numérique est devenue un enjeu central dans la conception et le développement des technologies modernes. Pourtant, elle reste souvent reléguée au second plan, perçue comme une contrainte ou une obligation légale plutôt que comme un impératif fondamental d'inclusion. Avec l'essor de l'intelligence artificielle (IA), de nouvelles opportunités s'offrent pour combler les lacunes existantes et améliorer l'expérience des utilisateurs en situation de handicap. Cependant, cette révolution technologique soulève des questions complexes. L'IA est-elle réellement la solution miracle à tous les défis de l'accessibilité ? Ou risque-t-elle de devenir un simple pansement, masquant des défauts de conception plus profonds ? De plus, les avancées de l'IA ne sont pas sans coût : l'impact environnemental de cette technologie est un défi de taille qui vient compliquer le tableau. Cette dissertation se penche sur ce trilemme de l'accessibilité, où innovation, inclusion et durabilité s'affrontent pour définir l'avenir du web.
+
+L'accessibilité numérique est devenue un enjeu central dans la conception et le développement des technologies modernes. Pourtant, elle reste souvent reléguée au second plan, perçue comme une contrainte ou une obligation légale plutôt que comme un impératif fondamental d'inclusion. Avec l'essor de l'intelligence artificielle (IA), de nouvelles opportunités s'offrent pour combler les lacunes existantes et améliorer l'expérience des utilisateurs en situation de handicap. Cependant, cette révolution technologique soulève des questions complexes. L'IA est-elle réellement la solution miracle à tous les défis de l'accessibilité ? Ou risque-t-elle de devenir un simple pansement, masquant des défauts de conception plus profonds ? De plus, les avancées de l'IA ne sont pas sans coût : l'impact environnemental de cette technologie est un défi de taille qui vient compliquer le tableau. Cette dissertation se penche sur ce dilemme de l'accessibilité moderne, où innovation, inclusion et durabilité s'affrontent pour définir l'avenir du web.
+
 # Accessibilité
+
 ## L'accessibilité le parent pauvre du web :
 
 L'étude approfondie du **rapport WebAIM Million 2024** confirme que l'accessibilité reste un défi largement sous-estimé dans l'écosystème numérique. Malgré les avancées technologiques, les résultats montrent que les sites web continuent de négliger des aspects essentiels de l'accessibilité, pénalisant ainsi les personnes en situation de handicap.
@@ -24,12 +27,14 @@ En termes linguistiques, les sites en **anglais** et **néerlandais** sont les p
 ### Réflexion et perspectives
 
 Les résultats du rapport WebAIM illustrent un paradoxe : alors que les normes d'accessibilité, telles que les **WCAG**, sont de mieux en mieux connues, leur mise en application reste partielle. Si certains secteurs et régions commencent à adopter des pratiques plus inclusives, une majorité reste encore à la traîne, ce qui justifie la persistance de l'accessibilité comme parent pauvre du web.
+
 ### Une accessibilité laissée pour compte
 
 L’accessibilité reste un domaine sous-investi, en particulier dans les secteurs peu régulés ou les géographies moins sensibilisées aux normes internationales. Les disparités notables entre secteurs et langues suggèrent que l'accessibilité repose davantage sur la pression réglementaire que sur une prise de conscience généralisée. Les données alarmantes du rapport **WebAIM Million 2024** rappellent l’ampleur du chemin à parcourir pour que le web soit réellement inclusif et accessible à tous.
+
 ## Si la valeur autour de l'accessibilité ne suffit pas, la loi s'en chargera :
 
-L'accessibilité numérique est souvent perçue comme un ajout optionnel ou secondaire par de nombreuses entreprises, mais la législation récente pousse à en faire une priorité. Un tournant majeur s’est opéré avec le décret du 10 octobre 2023, qui élargit le champ des obligations en matière d’accessibilité numérique à un éventail plus vaste d'entreprises. 
+L'accessibilité numérique est souvent perçue comme un ajout optionnel ou secondaire par de nombreuses entreprises, mais la législation récente pousse à en faire une priorité. Un tournant majeur s’est opéré avec le décret du 10 octobre 2023, qui élargit le champ des obligations en matière d’accessibilité numérique à un éventail plus vaste d'entreprises.
 
 Alors que les réglementations étaient historiquement réservées aux organismes publics et aux grandes entreprises générant plus de 250 millions d’euros de chiffre d’affaires, cette exigence s'applique désormais à toutes les entreprises de plus de 10 employés avec un chiffre d'affaires supérieur à deux millions d’euros. Cela marque une étape significative vers un web plus inclusif, où l'accessibilité n'est plus une option mais une exigence légale.
 
@@ -83,11 +88,9 @@ L'Arcom a récemment pris en charge le contrôle de l'accessibilité numérique,
 
 ### Des moyens et des défis limités
 
-Bien que la volonté de renforcer le contrôle soit présente, les ressources humaines et financières allouées aux autorités de régulation restent insuffisantes. L'Arcom, par exemple, travaille avec une équipe restreinte et dépend des audits partiels et des signalements des usagers pour prioriser ses interventions. 
+Bien que la volonté de renforcer le contrôle soit présente, les ressources humaines et financières allouées aux autorités de régulation restent insuffisantes. L'Arcom, par exemple, travaille avec une équipe restreinte et dépend des audits partiels et des signalements des usagers pour prioriser ses interventions.
 
-**Le manque de financement direct provenant des sanctions limite aussi l'impact des contrôles.**
-
-Un récent incident vient entacher l'Arcom suite à la divulgation de l'identité d'un lanceur d'alerte auprès de l'entreprise en question. Ce fait divers montre une politique qui n'est pas au point envers la protection des usagers qui alertent les manquement à la règle. 
+Un récent incident vient récemment entacher l'Arcom suite à la divulgation de l'identité d'un lanceur d'alerte auprès de l'entreprise fautive. Ce fait divers montre une politique qui n'est pas au point et un positionnement clairement défini.
 
 ### Approches spécifiques de contrôle
 
@@ -101,7 +104,6 @@ Les méthodes de contrôle varient entre audits programmés et traitement des si
 Pour maximiser l'impact, l'Arcom collabore avec d'autres institutions et associations spécialisées, notamment pour développer des outils de tests automatisés. Cette coopération est cruciale pour compenser les limites des ressources internes et optimiser la surveillance.
 
 Bien que le cadre législatif et les missions soient établis, les détails opérationnels sont encore en phase de finalisation. Les protocoles de coopération entre la **DGCCRF**, l'**Arcom**, et les autres autorités doivent être clarifiés pour garantir une application cohérente et efficace des réglementations d'ici juin 2025.
-
 
 ## Un travail titanesque :
 
@@ -133,11 +135,9 @@ L'accessibilité web est un chantier immense qui demande des efforts soutenus, u
 
 L'IA ne cesse s'améliorer présentant des réelles avancées sur des domaines d'applications variées. Certains recherches ont permis de créer des produits visant à une meilleurs UX pour les utilisateur web. Est ce que cette révolution autour de l'IA peut elle servir le domaine de l'accessibilité?
 
-
 # <<L'IAccessibilité>> :
 
 Alors que l'accessibilité numérique évolue lentement, la technologie offre de nouvelles perspectives pour surmonter certains de ses plus grands défis. L'intelligence artificielle (IA) se positionne comme un outil puissant capable de compléter et d'améliorer les pratiques d'accessibilité existantes. De la création de descriptions d'images automatisées à l'amélioration de l'accessibilité des vidéos et des contenus multimédias, l'IA ouvre la voie à des solutions plus dynamiques et personnalisées.
-
 
 ## IA au service de l'accessibilité
 
@@ -159,8 +159,6 @@ La génération automatique de descriptions alternatives pour les images et le c
 
 Cependant, il est crucial de valider ces descriptions pour garantir leur pertinence. Les erreurs de contexte ou les approximations peuvent compromettre la compréhension des utilisateurs et, par conséquent, leur expérience.
 
-
-
 L'évolution de l'IA permet de rêver à un futur où l'accessibilité est intégrée de manière proactive, rendant le web plus inclusif et facilitant l'autonomie des personnes en situation de handicap. Pour atteindre cet objectif, la collaboration entre les développeurs, les experts en accessibilité et les utilisateurs finaux est indispensable.
 
 ## Innovations futures de l'IA au service de l'accessibilité
@@ -168,13 +166,9 @@ L'évolution de l'IA permet de rêver à un futur où l'accessibilité est inté
 L'intelligence artificielle (IA) continue de transformer l'accessibilité numérique, ouvrant la voie à des innovations prometteuses pour les personnes en situation de handicap. Voici un aperçu des développements à venir :
 
 - **Cartographie adaptative** : Des systèmes d'IA sont en cours de développement pour adapter automatiquement les cartes aux besoins des malvoyants, en intégrant des annotations auditives et des descriptions tactiles pour une navigation plus intuitive.
-    
 - **Description intelligente de graphiques** : L'IA progresse vers la génération de descriptions détaillées de graphiques complexes, facilitant ainsi la compréhension des données visuelles pour les personnes ayant une déficience visuelle.
-    
 - **Analyse contextuelle d'images** : Les futurs systèmes d'IA viseront à fournir des descriptions contextuelles enrichies des images, permettant aux utilisateurs de saisir non seulement le contenu visuel, mais aussi les nuances et les émotions véhiculées.
-    
 - **Transcription et sous-titrage en temps réel** : Des avancées sont attendues dans la transcription instantanée et l'ajout automatique de sous-titres aux vidéos, améliorant l'accès aux contenus multimédias pour les personnes sourdes ou malentendantes.
-    
 - **Streaming inclusif** : L'IA contribuera à optimiser la qualité des vidéos en streaming tout en intégrant des options de traduction en direct et de sous-titrage amélioré, rendant les contenus en ligne plus accessibles à un public diversifié.
 
 ### Contributions de Claude AI et OpenAI :
@@ -213,7 +207,6 @@ Pour garantir une expérience réellement accessible, l'accessibilité doit êtr
 
 L'IA doit être considérée comme un outil complémentaire et non comme une solution de substitution. Pour qu'elle soit efficace, elle doit être utilisée de manière à soutenir un design et un développement axés sur l'accessibilité. Les développeurs, designers et gestionnaires de projet doivent collaborer pour que l'accessibilité soit un critère dans l'ensemble du projet, rendant ainsi l'IA comme une aide précieuse plutôt qu'une béquille technologique.
 
-
 L'IA apporte des solutions pratiques pour améliorer l'accessibilité, mais elle doit être appliquée dans un contexte où l'accessibilité est déjà une priorité. L'utilisation de l'IA comme un « pansement » sur un design inadéquat limite son efficacité et empêche de répondre aux vrais besoins des utilisateurs. Pour que l'accessibilité soit une réalité pour tous, elle doit être pensée de manière holistique, où l'IA vient en renfort et non en remplacement d'une conception bien pensée.
 
 # "IAccessibilité" et l'écologie :
@@ -230,7 +223,6 @@ L'IA, en particulier dans ses formes les plus complexes comme les modèles de la
 
 Les centres de données qui soutiennent les opérations de l'IA nécessitent des infrastructures de refroidissement sophistiquées. Les serveurs de haute puissance utilisés pour l'entraînement et l'exécution des modèles génèrent énormément de chaleur, nécessitant des systèmes de refroidissement à l'eau ou des technologies avancées comme le refroidissement par immersion. Cette dépendance à des solutions énergivores pour maintenir la température des équipements ajoute une pression supplémentaire sur les ressources en eau et augmente l'empreinte écologique de l'IA.
 
-
 ### 4. Les défis et implications pour l'accessibilité
 
 L'impact environnemental de l'IA soulève un paradoxe dans le dilemme de l'accessibilité : comment garantir l'accès à des outils avancés qui rendent le web plus inclusif tout en minimisant leur empreinte écologique ? L'adoption de solutions d'IA pour améliorer l'accessibilité doit être équilibrée avec une évaluation de leur durabilité. Les développeurs et les décideurs doivent trouver des compromis entre la performance, l'accessibilité et l'efficience énergétique.
@@ -242,6 +234,7 @@ Pour atténuer le coût énergétique de l'IA, plusieurs pistes prometteuses son
 - **Réentraînement sélectif et IA fine-tuned** : En adaptant des modèles existants plutôt que de les réentraîner entièrement, il est possible de réduire la consommation d'énergie. Ces méthodes d'optimisation permettent de spécialiser les IA pour des tâches précises tout en limitant l'impact énergétique.
 - **Politiques énergétiques et centres de données verts** : L'adoption de pratiques telles que l'utilisation d'énergies renouvelables et l'ordonnancement énergétique, qui ajuste la répartition des charges en fonction de la disponibilité des sources d'énergie propre, est essentielle pour réduire l'empreinte écologique des centres de données.
 - **Algorithmes optimisés et IA frugale** : Des techniques comme le pruning et la quantification permettent de simplifier les modèles d'IA et de réduire leur taille, entraînant une baisse de la consommation énergétique sans compromettre leurs performances. L'IA frugale vise à développer des systèmes plus légers et économes en ressources, répondant ainsi aux préoccupations écologiques tout en assurant l'efficacité.
+
 ### Une approche équilibrée
 
 Il est crucial de continuer à innover pour rendre l'IA accessible tout en s'assurant que ces avancées soient durables sur le plan environnemental. L'IA peut transformer l'accessibilité en améliorant l'autonomie et l'expérience utilisateur, mais ces bénéfices doivent être mesurés à l'aune de leur coût écologique. Pour véritablement réussir, le futur de l'IA dans l'accessibilité devra intégrer des pratiques écoresponsables et des technologies optimisées qui respectent à la fois l'environnement et les besoins des utilisateurs.
@@ -258,7 +251,7 @@ L'IA a considérablement amélioré l'expérience des utilisateurs en situation 
 
 Cependant, l'IA n'est pas exempte de limitations. Les modèles d'IA nécessitent une quantité importante de données pour fonctionner efficacement, et leur dépendance à des infrastructures énergivores pose des problèmes écologiques significatifs. De plus, l'IA n'est pas toujours précise et peut produire des résultats biaisés ou incomplets. Cela soulève des préoccupations quant à la dépendance excessive à ces technologies, notamment si elles sont perçues comme un substitut plutôt qu'un complément aux principes de conception universelle et inclusive.
 
-###  L'accessibilité "sans IA" : retour aux fondamentaux
+### L'accessibilité "sans IA" : retour aux fondamentaux
 
 Une accessibilité sans IA repose sur des principes de conception universelle, où l'inclusivité est intégrée dès la phase de développement, sans nécessiter de technologies complexes pour combler les lacunes. Cela implique de respecter les normes telles que le **WCAG** (Web Content Accessibility Guidelines), de garantir des contrastes suffisants, une navigation intuitive et des alternatives textuelles exhaustives. Bien que ces approches puissent sembler basiques comparées aux avancées de l'IA, elles présentent l'avantage d'être plus durables sur le plan environnemental et de ne pas dépendre d'une infrastructure technique sophistiquée.
 
@@ -284,7 +277,8 @@ Links : [[IA]] [[ÉCOLOGIE]] [[DEVELOPPEMENT WEB]]
 
 ---
 
-Vidéos pour aller plus loin : 
+Vidéos pour aller plus loin :
+
 - [ ] [L'horreur existentielle de l'usine à trombones.](https://www.youtube.com/watch?v=ZP7T6WAK3Ow)
 - [ ] [Le père fondateur du Deep Learning - Yann Le Cun](https://www.youtube.com/watch?v=gz876KIYeEA)
 - [ ] [Laurent Alexandre - Auteur - ChatGPT & IA : “Dans 6 mois, il sera trop tard pour s’y intéresser”](https://www.youtube.com/watch?v=qBo37puJEQg)
