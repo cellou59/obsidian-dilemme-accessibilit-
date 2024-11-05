@@ -1,3 +1,12 @@
+---
+
+title: Introduction
+
+draft: false
+
+tags:
+
+---
 # Objectifs du projet
 
 J'ai pris conscience de mes connaissances limitées en matière d'accessibilité numérique. À travers des conférences et des lectures, de nombreuses questions ont émergé, et je n'avais que peu de réponses. J'ai donc entrepris des recherches approfondies et souhaite partager mes notes et réflexions. Je ne me présente pas comme un expert en accessibilité, IA ou écologie, mais je crois que mon parcours et mes découvertes peuvent être utiles à d'autres personnes en quête de réponses.
