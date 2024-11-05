@@ -377,57 +377,6 @@ h6 {
   margin-bottom: 1rem;
 }
 
-:root[saved-theme="dark"] h1 {
-  background: rgb(198, 255, 221);
-  background: radial-gradient(
-    circle,
-    rgba(198, 255, 221, 1) 0%,
-    rgba(255, 224, 155, 1) 53%,
-    rgba(255, 200, 202, 1) 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-:root[saved-theme="dark"] h2 {
-  background: radial-gradient(circle, rgba(255, 239, 186, 1) 0%, rgba(255, 255, 255, 1) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-:root[saved-theme="dark"] h3 {
-  background: radial-gradient(
-    circle,
-    rgba(198, 255, 245, 1) 0%,
-    rgba(155, 224, 255, 1) 53%,
-    rgba(202, 200, 255, 1) 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-:root[saved-theme="dark"] h4 {
-  background: radial-gradient(
-    circle,
-    rgba(255, 210, 255, 1) 0%,
-    rgba(255, 190, 155, 1) 50%,
-    rgba(255, 240, 200, 1) 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-:root[saved-theme="dark"] h5 {
-  background: radial-gradient(
-    circle,
-    rgba(210, 255, 198, 1) 0%,
-    rgba(180, 255, 155, 1) 50%,
-    rgba(225, 200, 155, 1) 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 figure[data-rehype-pretty-code-figure] {
   margin: 0;
   position: relative;
