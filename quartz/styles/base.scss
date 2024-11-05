@@ -378,15 +378,15 @@ h6 {
 }
 
 :root[saved-theme="dark"] h1 {
-  background: rgb(198, 255, 221) !important;
+  background: rgb(198, 255, 221);
   background: radial-gradient(
     circle,
     rgba(198, 255, 221, 1) 0%,
     rgba(255, 224, 155, 1) 53%,
     rgba(255, 200, 202, 1) 100%
-  ) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 :root[saved-theme="dark"] h2 {
