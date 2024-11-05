@@ -16,8 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fr-FR",
-    baseUrl:
-      "https://cellou59.github.io/obsidian-accessibility-dilemma/Le-dilemme-de-l'accessibilit%C3%A9-moderne---IA,-inclusion-et-%C3%A9cologie",
+    baseUrl: "cellou59.github.io/obsidian-accessibility-dilemma/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
